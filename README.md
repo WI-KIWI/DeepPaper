@@ -7,4 +7,4 @@ Sino Data Scientist Association(SDSA)
 * * *  
   
 ### Neuro-linguistic programming
-- **Phrase-Based & Neural Unsupervised Machine Translation** (2018), Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato [[pdf]](https://arxiv.org/pdf/1804.07755.pdf)
+- :heavy_check_mark: **Phrase-Based & Neural Unsupervised Machine Translation** (2018), Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato [[pdf]](https://arxiv.org/pdf/1804.07755.pdf)
